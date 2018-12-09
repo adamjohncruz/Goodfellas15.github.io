@@ -1,5 +1,5 @@
-title: <center><img src="https://raw.githubusercontent.com/Goodfellas15/Goodfellas15.github.io/master/speed-e%20logo.jpg" alt="logo of speed-e" style="max-width:40%;"/></center>
-description: Goodfellas is one of the Senior Design teams at SDSU. Our background is in Electrical Engineering. Take a look at our first product, Speed-e.
+title: Goodfellas
+description: We are a senior design team at San Diego State University with a background in electrical engineering. <br> Speed-E is designed to provide the most efficient traffic routes by utilizing real time traffic data.
 show_downloads: true
 
 #baseurl: "/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
