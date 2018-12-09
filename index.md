@@ -11,7 +11,7 @@ layout: home
 
 <h1 align="center"> Speed-E: Speeding up, Saving Lives </h1>
 
-## Background:
+## Background
 The first hour after a traumatic injury, aka ‘The Golden Hour’, is considered the most critical time frame for successful treatment. Optimal routing obtained by continuously monitoring traffic conditions is necessary to reduce the transition between the initial call, response to an emergency, and the transit to the location of the incident.
 
 ## Overview
